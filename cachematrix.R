@@ -1,5 +1,7 @@
 ## Given a matrix that is assumed to be invertible,
 # create a special kind of matrix that allows you to cache its inverse. 
+# Comments are unnusually verbose, this was to help me to understand R code, 
+# which is extremely concise.
 #
 # Useful reading: 
 # https://cran.r-project.org/doc/manuals/R-intro.html#Scope
